@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://anpings.com/anpings.jpg" class="floatpic" width="360" height="480">
 
 Here is **ANpingS**.
 
