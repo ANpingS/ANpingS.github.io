@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- Statistical analysis of economics and finance
+- Statistical Analysis of Economics and Finance
 - Applied Machine Learning
 - Data Analytics
 
