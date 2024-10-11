@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Travelling
 
 - **×××**
 - **×××**
