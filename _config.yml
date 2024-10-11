@@ -12,13 +12,13 @@ owner:
   Email: anping.s@outlook.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: 123
+  twitter: 
   github: ANpingS
-  linkedin: 123
-  scholar: 123
-  bilibili: 123
-  researchgate: 123
-  zhihu: 123
+  linkedin: 
+  scholar: 
+  bilibili: 
+  researchgate: 
+  zhihu: 
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: 123
+google_verify: 
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
