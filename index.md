@@ -10,6 +10,8 @@ Here is **ANpingS**.
 
 I am a undergraduate student majoring in Mathematics and Applied Mathematics.
 
+In 2025, I will become a general graduate student majoring in applied statistics.
+
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - anping.s@outlook.com
 
 ---
