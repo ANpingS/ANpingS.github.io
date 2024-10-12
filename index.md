@@ -30,7 +30,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## News and Updates
 
-- **Oct 2024：**
+- **Oct 2024123：**
 - **×××**
 - **×××**
 - **×××**
