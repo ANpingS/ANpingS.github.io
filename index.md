@@ -1,7 +1,7 @@
 ---
 layout: page
 header:
-  image: anpings.com/images/ap.jpg  # 头部图片
+  image: anpings.com/images/ap.jpg
 ---
 
 # About Me
