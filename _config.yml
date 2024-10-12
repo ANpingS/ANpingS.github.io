@@ -4,7 +4,7 @@ title: ANpingS
 #Comment out url when working locally to resolve base urls correctly
 url: https://anpings.com
 header:
-  image: /images/ap.jpg
+  image: anpings.com/images/ap.jpg
 # Owner/author information
 owner:
   name: ANpingS
