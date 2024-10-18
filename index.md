@@ -8,7 +8,7 @@ header:
 
 <img src="/images/anpings.jpg" class="floatpic" width="360" height="480">
 
-Here is **AnnpingS**.
+Here is **AnpingS**.
 
 I am a undergraduate student majoring in Mathematics and Applied Mathematics.
 
